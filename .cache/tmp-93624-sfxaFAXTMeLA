@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/Liam/coding/Gatsby/gatsby-portolio-2023/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":8000,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/Liam/coding/Gatsby/gatsby-portolio-2023","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"gatsby-portolio-2023","version":"1.0.0","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1","develop":"gatsby develop","serve":"gatsby build  && gatsby serve"},"keywords":[],"author":"","license":"ISC","dependencies":{"gatsby":"^5.4.1","gatsby-source-filesystem":"^5.4.0","gatsby-transformer-remark":"^6.4.0"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"debugInfo":null};
+    cmd(args);
+  
